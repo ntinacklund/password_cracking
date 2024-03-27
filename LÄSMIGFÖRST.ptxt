@@ -1,0 +1,3 @@
+Kör kommandot pip install -r requirements.txt innan du börjar.
+Du kodar i main.py.
+Kör alltid server.py först, sen main.py.
